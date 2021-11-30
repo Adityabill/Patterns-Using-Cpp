@@ -3,8 +3,8 @@
 using namespace std;
 int main(){
     int rows, columns;
-    cout<<"Enter no. of rows & columns:";
-    cin>>rows>>columns;
+    cout<<"Enter no. of rows & columns:"; 
+    cin>>rows>>columns;     /* Input to enter no. of rows and columns */
     for (int i = 0; i < rows; i++)
     {
         for (int j = 0; j < columns; j++)
